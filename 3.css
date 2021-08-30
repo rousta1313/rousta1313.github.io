@@ -1,0 +1,27 @@
+body{
+	font-family: 'sansita';
+	background-color: #011627;
+	color: #FDFFFC;
+	text-align: center;
+	border: 40px solid #2EC486;
+}
+
+p{
+	padding-top: 10px;
+	padding-left: 200px;
+	padding-right: 220px;
+}
+
+form{
+	font-size: 1.5em;
+	margin-bottom: 10px;
+}
+
+#sub{
+	background-color: #FF9F1C;
+	height: 40px;
+	width: 150px;
+	margin-top: 4px;
+	font-size: 1em;
+	border-radius: 25px;
+}
